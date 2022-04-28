@@ -2,7 +2,7 @@
 
 Test image
 
-![test(https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Students_taking_computerized_exam.jpg/800px-Students_taking_computerized_exam.jpg?20080206144403)
+![test](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Students_taking_computerized_exam.jpg/800px-Students_taking_computerized_exam.jpg?20080206144403)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
 
