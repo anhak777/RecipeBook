@@ -1,6 +1,6 @@
 # CourseProjectApp
 
-Test image
+Test image! Remember to check this one. Maybe I can find something interesting in it. 
 
 ![test](https://user-images.githubusercontent.com/38184193/54036018-3ed3b200-41c3-11e9-98d3-0053f8ff8a12.png)
 
