@@ -2,7 +2,9 @@
 
 Test image
 
-![test](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Students_taking_computerized_exam.jpg/800px-Students_taking_computerized_exam.jpg?20080206144403)
+![test](https://user-images.githubusercontent.com/38184193/54036018-3ed3b200-41c3-11e9-98d3-0053f8ff8a12.png)
+
+Look at this version of RecipeBook by another user - https://github.com/nofaralfasi/Recipe-Book-App-Angular-Project
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
 
