@@ -50,10 +50,45 @@ export class RecipeService {
       'What else you need to say?',
       '../../../assets/pexels-photo-burger.jpeg',
       [
-        new Ingredient('Buns', 2),
-        new Ingredient('Meat', 1),
-        new Ingredient('Cheese', 1),
-        new Ingredient('Tomato', 1),
+        new Ingredient('Ground beef', 2),
+        new Ingredient('Black Pepper', 1),
+        new Ingredient('Cheddar cheese', 4),
+        new Ingredient('Mayonnaise', 1/25),
+        new Ingredient('Yellow mustard', 1),
+        new Ingredient('Burger buns', 4),
+        new Ingredient('Iceberg lettuce', 2),
+        new Ingredient('Large tomato', 1),
+        new Ingredient('Red onion', 1/2),
+        new Ingredient('Dill Pickles', 2),
+      ]
+    ),
+    new Recipe(
+      'Fish Taco',
+      'Don’t skip the best taco sauce – a garlic lime crema',
+      '../../../assets/Fish-Tacos.jpg',
+      [
+        new Ingredient('Small white corn tortillas', 24),
+        new Ingredient('Tilapia', 1),
+        new Ingredient('Ground cumin', 1/2),
+        new Ingredient('Cayenne pepper', 1/2),
+        new Ingredient('Salt', 1),
+        new Ingredient('Black pepper', 1/4),
+        new Ingredient('Olive oil', 1),
+        new Ingredient('Unsalted butter', 1),
+      ]
+    ),
+    new Recipe(
+      'Easy Crepe',
+      'This blender crepe recipe couldn’t be easier',
+      '../../../assets/Crepe.jpg',
+      [
+        new Ingredient('Lukewarm water', 1/2),
+        new Ingredient('Warm milk', 1),
+        new Ingredient('Large eggs', 4),
+        new Ingredient('Unsalted butter, melted', 4),
+        new Ingredient('All-purpose flour', 1),
+        new Ingredient('Granulated sugar', 2),
+        new Ingredient('Sea salt', 1),
       ]
     ),
 
