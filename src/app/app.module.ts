@@ -1,3 +1,5 @@
+import { PlaceholderDirective } from './shared/placeholder/placeholder.directive';
+import { AlertComponent } from './shared/alert/alert.component';
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
@@ -37,7 +39,9 @@ import { AuthInterceptorService } from './auth/auth-interceptor.service';
     RecipeStartComponent,
     RecipeEditComponent,
     AuthComponent,
-    LoadingSpinnerComponent
+    LoadingSpinnerComponent,
+    AlertComponent,
+    PlaceholderDirective
   ],
   imports: [
     BrowserModule,
@@ -55,6 +59,7 @@ import { AuthInterceptorService } from './auth/auth-interceptor.service';
       multi: true
     }
   ],
-  bootstrap: [AppComponent]
+  bootstrap: [AppComponent],
+  entryComponents: [AlertComponent]
 })
 export class AppModule { }
