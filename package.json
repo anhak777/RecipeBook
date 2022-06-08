@@ -6,7 +6,8 @@
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
-    "test": "ng test"
+    "test": "ng test",
+    "v": "node -v"
   },
   "private": true,
   "dependencies": {
@@ -21,6 +22,7 @@
     "aos": "^3.0.0-beta.6",
     "bootstrap": "^3.4.1",
     "jquery": "^3.6.0",
+    "node": "14.18.0",
     "rxjs": "~7.5.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.11.4"
